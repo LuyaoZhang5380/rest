@@ -1,6 +1,7 @@
 {
   "table": [
     {
+      "id": 1,
       "name": "Age",
       "state": "Run",
       "size": "15 minutes",
@@ -11,6 +12,7 @@
       "created_timestamp": "2020-06-19T00:23:30.315Z",
       "updated_timestamp":"2020-07-20T00:23:30.315Z"
     },{
+      "id": 2,
       "name": "Name",
       "state": "Pending",
       "size": "Medium (4 credits/hour)",
@@ -22,6 +24,7 @@
       "updated_timestamp":"2020-07-22T00:10:30.315Z"
     },
     {
+      "id": 3,
       "name": "Address",
       "state": "Stop",
       "size": "X-Small (1 credit/hour)",
@@ -33,6 +36,7 @@
       "updated_timestamp":"2020-04-25T00:23:30.315Z"
     },
     {
+      "id": 4,
       "name": "School",
       "state": "Stop",
       "size": "X-Small (1 credit/hour)",
