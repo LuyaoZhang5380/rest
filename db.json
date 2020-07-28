@@ -1,15 +1,47 @@
 {
-  "posts": [
+  "table": [
     {
       "name": "Age",
+      "state": "Run",
+      "size": "15 minutes",
+      "Maximum Clusters": 4,
+      "Minimum Clusters": 2,
+      "Scaling Policy": "Economy",
+      "Auto Suspend": "15 minutes",
+      "created_timestamp": "2020-06-19T00:23:30.315Z",
+      "updated_timestamp":"2020-07-20T00:23:30.315Z"
+    },{
+      "name": "Name",
+      "state": "Pending",
+      "size": "Medium (4 credits/hour)",
+      "Maximum Clusters": 2,
+      "Minimum Clusters": 1,
+      "Scaling Policy": "Standard",
+      "Auto Suspend": "5 minutes",
+      "created_timestamp": "2020-07-19T00:23:30.315Z",
+      "updated_timestamp":"2020-07-22T00:10:30.315Z"
+    },
+    {
+      "name": "Address",
+      "state": "Stop",
+      "size": "X-Small (1 credit/hour)",
+      "Maximum Clusters": 3,
+      "Minimum Clusters": 1,
+      "Scaling Policy": "Economy",
+      "Auto Suspend": "30 minutes",
+      "created_timestamp": "2020-04-19T00:23:30.315Z",
+      "updated_timestamp":"2020-04-25T00:23:30.315Z"
+    },
+    {
+      "name": "School",
       "state": "Stop",
       "size": "X-Small (1 credit/hour)",
       "Maximum Clusters": 2,
       "Minimum Clusters": 1,
       "Scaling Policy": "Standard",
-      "Auto Suspend": "5 minutes",
-      "created_timestamp": "2022-07-19T00:23:30.315Z",
-      "updated_timestamp":"2023-07-19T00:23:30.315Z"
+      "Auto Suspend": "1 hour",
+      "created_timestamp": "2020-06-19T00:23:30.315Z",
+      "updated_timestamp":"2020-06-20T00:23:30.315Z"
     }
 
   ],
