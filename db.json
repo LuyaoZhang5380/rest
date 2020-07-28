@@ -1,15 +1,35 @@
-{
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      },
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+[
+  {
+    "name": "Birth",
+    "state": "Run",
+    "size": "Large (8 credits/hour)",
+    "Maximum Clusters": 3,
+    "Minimum Clusters": 1,
+    "Scaling Policy": "Standard",
+    "Auto Suspend": "15 minutes",
+    "created_timestamp": "2020-07-19T00:23:30.315Z",
+    "updated_timestamp":"2021-07-19T00:23:30.315Z"
+  },
+  {
+    "name": "Name",
+    "state": "Stop",
+    "size": "Medium (4 credits/hour)",
+    "Maximum Clusters": 4,
+    "Minimum Clusters": 1,
+    "Scaling Policy": "Standard",
+    "Auto Suspend": "30 minutes",
+    "created_timestamp": "2021-07-19T00:23:30.315Z",
+    "updated_timestamp":"2022-07-19T00:23:30.315Z"
+  },
+  {
+    "name": "Age",
+    "state": "Stop",
+    "size": "X-Small (1 credit/hour)",
+    "Maximum Clusters": 2,
+    "Minimum Clusters": 1,
+    "Scaling Policy": "Standard",
+    "Auto Suspend": "5 minutes",
+    "created_timestamp": "2022-07-19T00:23:30.315Z",
+    "updated_timestamp":"2023-07-19T00:23:30.315Z"
+  },
+],
