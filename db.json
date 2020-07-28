@@ -4,7 +4,7 @@
       "name": "Age",
       "id": 1,
       "state": "Run",
-      "size": "15 minutes",
+      "size": "X-Large (16 credits/hour)",
       "Maximum Clusters": 4,
       "Minimum Clusters": 2,
       "Scaling Policy": "Economy",
