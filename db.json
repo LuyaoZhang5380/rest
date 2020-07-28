@@ -49,6 +49,68 @@
     }
 
   ],
+  "newtable": [
+    {
+      "name": "Age",
+      "id": 1,
+      "state": "Run",
+      "size": "15 minutes",
+      "Maximum Clusters": 4,
+      "Minimum Clusters": 2,
+      "Scaling Policy": "Economy",
+      "Auto Suspend": "15 minutes",
+      "created_timestamp": "2020-06-19T00:23:30.315Z",
+      "updated_timestamp":"2020-07-20T00:23:30.315Z"
+    },{
+      "name": "Name",
+      "id": 2,
+      "state": "Pending",
+      "size": "Medium (4 credits/hour)",
+      "Maximum Clusters": 2,
+      "Minimum Clusters": 1,
+      "Scaling Policy": "Standard",
+      "Auto Suspend": "5 minutes",
+      "created_timestamp": "2020-07-19T00:23:30.315Z",
+      "updated_timestamp":"2020-07-22T00:10:30.315Z"
+    },
+    {
+      "name": "Address",
+      "id": 3,
+      "state": "Stop",
+      "size": "X-Small (1 credit/hour)",
+      "Maximum Clusters": 3,
+      "Minimum Clusters": 1,
+      "Scaling Policy": "Economy",
+      "Auto Suspend": "30 minutes",
+      "created_timestamp": "2020-04-19T00:23:30.315Z",
+      "updated_timestamp":"2020-04-25T00:23:30.315Z"
+    },
+    {
+      "name": "School",
+      "id": 4,
+      "state": "Stop",
+      "size": "X-Small (1 credit/hour)",
+      "Maximum Clusters": 1,
+      "Minimum Clusters": 1,
+      "Scaling Policy": "Standard",
+      "Auto Suspend": "1 hour",
+      "created_timestamp": "2020-06-19T00:23:30.315Z",
+      "updated_timestamp":"2020-06-20T00:23:30.315Z"
+    },
+    {
+      "name": "Weight",
+      "id": 5,
+      "state": "Pending",
+      "size": "Large (8 credits/hour)",
+      "Maximum Clusters": 2,
+      "Minimum Clusters": 1,
+      "Scaling Policy": "Standard",
+      "Auto Suspend": "30 minutes",
+      "created_timestamp": "2020-05-19T00:23:30.315Z",
+      "updated_timestamp":"2020-05-21T00:23:30.315Z"
+    }
+
+  ],
   "chart": 
   [
   { "id": 1,
