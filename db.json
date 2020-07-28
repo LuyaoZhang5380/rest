@@ -36,7 +36,7 @@
       "name": "School",
       "state": "Stop",
       "size": "X-Small (1 credit/hour)",
-      "Maximum Clusters": 2,
+      "Maximum Clusters": 1,
       "Minimum Clusters": 1,
       "Scaling Policy": "Standard",
       "Auto Suspend": "1 hour",
