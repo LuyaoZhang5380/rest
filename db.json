@@ -49,7 +49,38 @@
     }
 
   ],
-  "profile": {
-    "name": "typicode"
+  "profile": 
+  [
+  { time_start: 1,
+    time_end:   3,
+    target_size: 4,
+    actual_size: 5
+  },
+
+  { time_start: 3,
+    time_end:  6,
+     target_size: 7,
+    actual_size: 5
+  },
+   { time_start: 6,
+    time_end:  10,
+     target_size: 3,
+    actual_size: 1
+  },
+    { time_start: 10,
+    time_end:  13,
+     target_size: 5,
+    actual_size: 6
+  },
+    { time_start: 10,
+    time_end:  15,
+     target_size: 3,
+    actual_size: 2
+  },
+    { time_start: 15,
+    time_end:  19,
+     target_size: 4,
+    actual_size: 6
   }
+]
 }
