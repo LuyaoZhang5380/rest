@@ -146,10 +146,10 @@
        "data" :[
     { 
       "time_start": "2020-01-19"
-      "time_end":   "2020-03-06"
+      "time_end":  "2020-03-06"
       "target_size": "X-Large",
       "actual_size": "Large",
-      "billing" : 250
+      "billing" :250
     },
   
     { 
@@ -163,7 +163,7 @@
        "time_start":"2020-04-19"
       "time_end":  "2020-06-02"
        "target_size": "Medium",
-      "actual_size": "Large",
+      "actual_size":"Large",
       "billing" : 500
     },
       { 
