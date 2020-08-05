@@ -102,44 +102,44 @@
     { 
       "time_start": "2020-01-19",
       "time_end":   "2020-03-06",
-      "target_size": "X-Large",
-      "actual_size": "Large",
+      "target_size": 4,
+      "actual_size": 5,
       "billing" : 550
     },
   
     { 
       "time_start": "2020-03-06",
       "time_end":  "2020-04-19",
-       "target_size": "Medium",
-      "actual_size": "Small",
+       "target_size": 7,
+      "actual_size": 5,
       "billing" : 950
     },
      { 
        "time_start":"2020-04-19",
       "time_end":  "2020-06-02",
-       "target_size": "Medium",
-      "actual_size": "Large",
+       "target_size": 3,
+      "actual_size": 1,
       "billing" : 500
     },
       { 
         "time_start": "2020-06-02",
       "time_end":  "2020-06-19",
-       "target_size": "X-Small",
-      "actual_size": "Small",
+       "target_size": 5,
+      "actual_size": 6,
       "billing" : 650
     },
       { 
         "time_start": "2020-06-19",
       "time_end":  "2020-07-21",
-       "target_size": "Large",
-      "actual_size": "Medium",
+       "target_size": 3,
+      "actual_size": 2,
       "billing" : 550
     },
       { 
         "time_start": "2020-07-21",
       "time_end":  "2020-08-03",
-       "target_size": "Large",
-      "actual_size": "Large",
+       "target_size": 4,
+      "actual_size": 6,
       "billing" : 630
     }
   ]},{"id": 2,
@@ -147,44 +147,44 @@
     { 
       "time_start": "2020-01-19",
       "time_end":  "2020-03-06",
-      "target_size": "X-Large",
-      "actual_size": "Large",
+      "target_size": 8,
+      "actual_size": 7,
       "billing" :250
     },
   
     { 
       "time_start": "2020-03-06",
       "time_end":  "2020-04-19",
-       "target_size": "Medium",
-      "actual_size": "Small",
+       "target_size": 2,
+      "actual_size": 3,
       "billing" : 450
     },
      { 
        "time_start":"2020-04-19",
       "time_end":  "2020-06-02",
-       "target_size": "Medium",
-      "actual_size":"Large",
+       "target_size": 5,
+      "actual_size":6,
       "billing" : 500
     },
       { 
         "time_start": "2020-06-02",
       "time_end":  "2020-06-19",
-       "target_size": "X-Small",
-      "actual_size": "Small",
+       "target_size": 9,
+      "actual_size": 8,
       "billing" : 350
     },
       { 
         "time_start": "2020-06-19",
       "time_end":  "2020-07-21",
-       "target_size": "Large",
-      "actual_size": "Medium",
+       "target_size": 3,
+      "actual_size": 2,
       "billing" : 550
     },
       { 
         "time_start": "2020-07-21",
       "time_end":  "2020-08-03",
-       "target_size": "Large",
-      "actual_size": "Large",
+       "target_size": 6,
+      "actual_size": 7,
       "billing" : 630
     }
   ]}
