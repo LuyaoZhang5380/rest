@@ -100,44 +100,44 @@
       {"id": 1,
       "data" :[
     { 
-      "time_start": "2020-01-19"
-      "time_end":   "2020-03-06"
+      "time_start": "2020-01-19",
+      "time_end":   "2020-03-06",
       "target_size": "X-Large",
       "actual_size": "Large",
       "billing" : 550
     },
   
     { 
-      "time_start": "2020-03-06"
-      "time_end":  "2020-04-19"
+      "time_start": "2020-03-06",
+      "time_end":  "2020-04-19",
        "target_size": "Medium",
       "actual_size": "Small",
       "billing" : 950
     },
      { 
-       "time_start":"2020-04-19"
-      "time_end":  "2020-06-02"
+       "time_start":"2020-04-19",
+      "time_end":  "2020-06-02",
        "target_size": "Medium",
       "actual_size": "Large",
       "billing" : 500
     },
       { 
-        "time_start": "2020-06-02"
-      "time_end":  "2020-06-19"
+        "time_start": "2020-06-02",
+      "time_end":  "2020-06-19",
        "target_size": "X-Small",
       "actual_size": "Small",
       "billing" : 650
     },
       { 
-        "time_start": "2020-06-19"
-      "time_end":  "2020-07-21"
+        "time_start": "2020-06-19",
+      "time_end":  "2020-07-21",
        "target_size": "Large",
       "actual_size": "Medium",
       "billing" : 550
     },
       { 
-        "time_start": "2020-07-21"
-      "time_end":  "2020-08-03"
+        "time_start": "2020-07-21",
+      "time_end":  "2020-08-03",
        "target_size": "Large",
       "actual_size": "Large",
       "billing" : 630
@@ -145,44 +145,44 @@
   ]},{"id": 2,
        "data" :[
     { 
-      "time_start": "2020-01-19"
-      "time_end":  "2020-03-06"
+      "time_start": "2020-01-19",
+      "time_end":  "2020-03-06",
       "target_size": "X-Large",
       "actual_size": "Large",
       "billing" :250
     },
   
     { 
-      "time_start": "2020-03-06"
-      "time_end":  "2020-04-19"
+      "time_start": "2020-03-06",
+      "time_end":  "2020-04-19",
        "target_size": "Medium",
       "actual_size": "Small",
       "billing" : 450
     },
      { 
-       "time_start":"2020-04-19"
-      "time_end":  "2020-06-02"
+       "time_start":"2020-04-19",
+      "time_end":  "2020-06-02",
        "target_size": "Medium",
       "actual_size":"Large",
       "billing" : 500
     },
       { 
-        "time_start": "2020-06-02"
-      "time_end":  "2020-06-19"
+        "time_start": "2020-06-02",
+      "time_end":  "2020-06-19",
        "target_size": "X-Small",
       "actual_size": "Small",
       "billing" : 350
     },
       { 
-        "time_start": "2020-06-19"
-      "time_end":  "2020-07-21"
+        "time_start": "2020-06-19",
+      "time_end":  "2020-07-21",
        "target_size": "Large",
       "actual_size": "Medium",
       "billing" : 550
     },
       { 
-        "time_start": "2020-07-21"
-      "time_end":  "2020-08-03"
+        "time_start": "2020-07-21",
+      "time_end":  "2020-08-03",
        "target_size": "Large",
       "actual_size": "Large",
       "billing" : 630
