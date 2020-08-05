@@ -4,85 +4,94 @@
         "name": "Age",
         "id": 1,
         "state": "Run",
-        "size": "X-Large (16 credits/hour)",
+        "target size": "X-Large",
+        "actual size": "Large",
         "Auto Suspend": "15 minutes",
         "Billing Option": "On Demand",
-        "created timestamp": "2020-06-19T00:23:30.315Z"
+        "created": "2020-06-19T00:23:30.315Z"
       },{
         "name": "Name",
         "id": 2,
         "state": "Pending",
-        "size": "Medium (4 credits/hour)",
+        "target size": "Medium",
+        "actual size": "Large",
         "Auto Suspend": "30 minutes",
         "Billing Option": "Spot",
-        "created timestamp": "2020-07-19T00:23:30.315Z"
+        "created": "2020-07-19T00:23:30.315Z"
       },
       {
         "name": "Address",
         "id": 3,
         "state": "Stop",
-        "size": "X-Small (1 credit/hour)",
+        "target size": "Medium",
+        "actual size": "X-Small",
         "Auto Suspend": "45 minutes",
         "Billing Option": "On Demand",
-        "created timestamp": "2020-04-19T00:23:30.315Z"
+        "created": "2020-04-19T00:23:30.315Z"
       },
       {
         "name": "School",
         "id": 4,
         "state": "Stop",
-        "size": "X-Small (1 credit/hour)",
+        "target size": "X-Small",
+        "actual size": "X-Small",
         "Auto Suspend": "1 hour",
         "Billing Option": "On Demand",
-        "created timestamp": "2020-06-19T00:23:30.315Z"
+        "created": "2020-06-19T00:23:30.315Z"
       }
   
     ],
     "newtable": [
-      {
+            {
         "name": "Age",
         "id": 1,
         "state": "Run",
-        "size": "X-Large (16 credits/hour)",
+        "target size": "X-Large",
+        "actual size": "Large",
         "Auto Suspend": "15 minutes",
         "Billing Option": "On Demand",
-        "created timestamp": "2020-06-19T00:23:30.315Z"
+        "created": "2020-06-19T00:23:30.315Z"
       },{
         "name": "Name",
         "id": 2,
         "state": "Pending",
-        "size": "Medium (4 credits/hour)",
+        "target size": "Medium",
+        "actual size": "Large",
         "Auto Suspend": "30 minutes",
         "Billing Option": "Spot",
-        "created timestamp": "2020-07-19T00:23:30.315Z"
+        "created": "2020-07-19T00:23:30.315Z"
       },
       {
         "name": "Address",
         "id": 3,
         "state": "Stop",
-        "size": "X-Small (1 credit/hour)",
+        "target size": "Medium",
+        "actual size": "X-Small",
         "Auto Suspend": "45 minutes",
         "Billing Option": "On Demand",
-        "created timestamp": "2020-04-19T00:23:30.315Z"
+        "created": "2020-04-19T00:23:30.315Z"
       },
       {
         "name": "School",
         "id": 4,
         "state": "Stop",
-        "size": "X-Small (1 credit/hour)",
+        "target size": "X-Small",
+        "actual size": "X-Small",
         "Auto Suspend": "1 hour",
         "Billing Option": "On Demand",
-        "created timestamp": "2020-06-19T00:23:30.315Z"
+        "created": "2020-06-19T00:23:30.315Z"
       },
       {
         "name": "Weight",
         "id": 5,
         "state": "Pending",
-        "size": "Large (8 credits/hour)",
+        "target size": "Large",
+        "actual size": "Large",
         "Maximum Clusters": 2,
         "Minimum Clusters": 1,
         "Scaling Policy": "Standard",
         "Auto Suspend": "30 minutes",
-        "created timestamp": "2020-05-19T00:23:30.315Z"
+        "created": "2020-05-19T00:23:30.315Z"
       }
   
     ],
