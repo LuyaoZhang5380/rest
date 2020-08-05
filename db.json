@@ -14,7 +14,7 @@
         "state": "Pending",
         "size": "Medium (4 credits/hour)",
         "Auto Suspend": "30 minutes",
-        "Billing Option": "Normal",
+        "Billing Option": "Spot",
         "created timestamp": "2020-07-19T00:23:30.315Z"
       },
       {
@@ -24,7 +24,7 @@
         "size": "X-Small (1 credit/hour)",
         "Auto Suspend": "45 minutes",
         "Billing Option": "On Demand",
-        "created_timestamp": "2020-04-19T00:23:30.315Z"
+        "created timestamp": "2020-04-19T00:23:30.315Z"
       },
       {
         "name": "School",
@@ -33,7 +33,7 @@
         "size": "X-Small (1 credit/hour)",
         "Auto Suspend": "1 hour",
         "Billing Option": "On Demand",
-        "created_timestamp": "2020-06-19T00:23:30.315Z"
+        "created timestamp": "2020-06-19T00:23:30.315Z"
       }
   
     ],
@@ -52,7 +52,7 @@
         "state": "Pending",
         "size": "Medium (4 credits/hour)",
         "Auto Suspend": "30 minutes",
-        "Billing Option": "Normal",
+        "Billing Option": "Spot",
         "created timestamp": "2020-07-19T00:23:30.315Z"
       },
       {
@@ -62,7 +62,7 @@
         "size": "X-Small (1 credit/hour)",
         "Auto Suspend": "45 minutes",
         "Billing Option": "On Demand",
-        "created_timestamp": "2020-04-19T00:23:30.315Z"
+        "created timestamp": "2020-04-19T00:23:30.315Z"
       },
       {
         "name": "School",
@@ -71,7 +71,7 @@
         "size": "X-Small (1 credit/hour)",
         "Auto Suspend": "1 hour",
         "Billing Option": "On Demand",
-        "created_timestamp": "2020-06-19T00:23:30.315Z"
+        "created timestamp": "2020-06-19T00:23:30.315Z"
       },
       {
         "name": "Weight",
@@ -82,8 +82,7 @@
         "Minimum Clusters": 1,
         "Scaling Policy": "Standard",
         "Auto Suspend": "30 minutes",
-        "created_timestamp": "2020-05-19T00:23:30.315Z",
-        "updated_timestamp":"2020-05-21T00:23:30.315Z"
+        "created timestamp": "2020-05-19T00:23:30.315Z",
       }
   
     ],
@@ -104,7 +103,7 @@
       "time_end":  6,
        "target_size": 7,
       "actual_size": 5,
-      "billing" : 50
+      "billing" : 950
     },
      { 
        "time_start": 6,
