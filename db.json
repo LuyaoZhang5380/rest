@@ -42,7 +42,7 @@
   
     ],
     "airflow":[
-        [
+       
   {
     "clusterName": "string",
     "clusterSize": "l",
@@ -53,8 +53,19 @@
     },
     "namespace": "string",
     "overrideDAGLocation": "string"
+  },
+        {
+    "clusterName": "vv",
+    "clusterSize": "l",
+    "config": {
+      "additionalProp1": "vv",
+      "additionalProp2": "vv",
+      "additionalProp3": "vv"
+    },
+    "namespace": "string",
+    "overrideDAGLocation": "string"
   }
-]
+
     ],
     "newtable": [
             {
