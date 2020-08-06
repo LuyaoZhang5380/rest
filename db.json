@@ -41,6 +41,32 @@
       }
   
     ],
+    "airflow":[
+        [
+  {
+    "clusterName": "string",
+    "clusterSize": "l",
+    "config": {
+      "additionalProp1": "string",
+      "additionalProp2": "string",
+      "additionalProp3": "string"
+    },
+    "namespace": "string",
+    "overrideDAGLocation": "string"
+  },
+            {
+    "clusterName": "www",
+    "clusterSize": "m",
+    "config": {
+      "additionalProp1": "ww",
+      "additionalProp2": "ww",
+      "additionalProp3": "ww"
+    },
+    "namespace": "ee",
+    "overrideDAGLocation": "ee"
+  }
+]
+    ],
     "newtable": [
             {
         "name": "Age",
