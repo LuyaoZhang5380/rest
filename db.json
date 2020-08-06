@@ -53,17 +53,6 @@
     },
     "namespace": "string",
     "overrideDAGLocation": "string"
-  },
-            {
-    "clusterName": "www",
-    "clusterSize": "m",
-    "config": {
-      "additionalProp1": "ww",
-      "additionalProp2": "ww",
-      "additionalProp3": "ww"
-    },
-    "namespace": "ee",
-    "overrideDAGLocation": "ee"
   }
 ]
     ],
